@@ -1,1 +1,1 @@
-# microblink-internal-podspec
+# microblink-internal-framework
