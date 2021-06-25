@@ -6,87 +6,75 @@
 	<dict>
 		<key>BlinkCard_BlurClassifier_general_6.0.0.strop</key>
 		<data>
-		PNuqFXibcg0FZg8F5um5d5J3pOA=
+		F4fFJSbvDDpcf1OZqsVtv1a3fds=
 		</data>
 		<key>BlinkCard_Classifier_general_6.1.0.strop</key>
 		<data>
-		ajlOvR7HeGnFYzNvFBtGz2lRllM=
+		R86babRgcVVnRH0GM4GN/GgTY0Y=
 		</data>
 		<key>BlinkCard_Detector_general_6.0.0.strop</key>
 		<data>
-		EfqUzMxPehY+Rv0zA9ygRyDEKe8=
+		Gvc+87NlXqoREh2V7MknMXzSvFg=
 		</data>
 		<key>BlinkCard_EmbossedClassifier_general_6.1.0.strop</key>
 		<data>
-		JHPpRhip8/ZzRVSfVcFBEqwP5u4=
+		hcIQamLftlb5QB80/WYSSTNt7Lk=
 		</data>
 		<key>BlinkCard_Ocr_general_6.3.0.strop</key>
 		<data>
-		GF79OlwEBNXM3J6utKbJM1ZUlK8=
+		6sRvfWfDPBC116n6/QY858cQgzk=
 		</data>
 		<key>BlinkCard_RotationClassifier_general_6.0.0.strop</key>
 		<data>
-		p5RCe0EVw8JvZjE89fI8Bg9iO5o=
+		FxjXhC+TJAcxlCO28ud37950wVA=
 		</data>
 		<key>BlinkCard_WordDetector_general_6.0.0.strop</key>
 		<data>
-		xZqU/Nqbb3HWqd/cV4QgycRHsf4=
+		uxAN7xGv1AZ33wXQl9tjnrLzdco=
 		</data>
 		<key>BlinkID_Analyzer_general_6.5.0.strop</key>
 		<data>
-		afbwsDEAM914zOevrPSu8LCELqk=
+		6761znCKrXV6AzdCLy4GPg5wHXk=
 		</data>
 		<key>BlinkID_BlurClassifier_general_6.2.0.strop</key>
 		<data>
-		jDaiVU+GODYpWUOW1JEg8gnUeuk=
+		OjEexuh1FYXxCN6cUvpN178J7v0=
 		</data>
 		<key>BlinkID_Classifier_general_6.13.0.strop</key>
 		<data>
-		1uSEkdDsTy0qbtkk+07IdcRi1+A=
-		</data>
-		<key>BlinkID_CreditCardOcr_general_6.2.0.strop</key>
-		<data>
-		L8q6xXiSjrWaHhL5lgirVQrPHVo=
+		BJtuhmqB5zNxuJCopMiYv54Ab4M=
 		</data>
 		<key>BlinkID_Detector_general_6.6.0.strop</key>
 		<data>
-		/MVWjvqRYkPK7Aq7lRwgIaou8H4=
+		uU4PV+0aG8CWWhoR2j2p87zyp0c=
 		</data>
 		<key>BlinkID_MoireClassifier_malaysia_6.0.0.strop</key>
 		<data>
-		sj+xtjxawS544wvWKKjWvzECeCs=
+		9ohO5kkfFXD1XzNmrQzscDWiFzc=
 		</data>
 		<key>BlinkID_MonochromeClassifier_general_6.0.0.strop</key>
 		<data>
-		UZFDnrQxCY3hCjhUyFwrOtQuzSE=
+		JPHm46KNoCSrRCOZDZOWQ8W7nDA=
 		</data>
 		<key>BlinkID_Ocr_general_6.12.0.strop</key>
 		<data>
-		wbVDsuLNpOChi09GE2cTc0ryMeI=
-		</data>
-		<key>BlinkID_Ocr_general_6.2.0.strop</key>
-		<data>
-		sQxPCPADW2EQ/9zCSvPkLlcyS0g=
+		1lco+MPAgmBAUb3Fq/NKsVSg0Qw=
 		</data>
 		<key>BlinkID_Ocr_mrz_6.4.0.strop</key>
 		<data>
-		LbAkE0wjxHdu0GU6u7s0U0Vre2E=
+		WlKTbjDBL0kmARC8IN7Cf+xqZTo=
 		</data>
 		<key>BlinkID_RotationClassifier_general_6.1.0.strop</key>
 		<data>
-		NwDBCF6ocviwCz5nWUcvSNIG4SE=
+		wO6a95LA4XwqGUwxMop2Jv446yw=
 		</data>
 		<key>BlinkID_Segmentator_general_6.13.0.strop</key>
 		<data>
-		vKyQUrfcm1D+56ckNhL/uvdBin4=
+		Y5ZqP8RlSf1rynuwClLLbx3wy74=
 		</data>
 		<key>BlinkOCR_DocumentDetector_general_6.3.0.strop</key>
 		<data>
-		MTHw3Lhd6ApMVwUKOjtizYokTZI=
-		</data>
-		<key>BlinkOCR_Ocr_general_6.1.0.strop</key>
-		<data>
-		k4/ZyzOdibtIX5D5ma0Hv1vTKTo=
+		lZDtUbSvEnNvqkzOebsfBLw/4qM=
 		</data>
 		<key>Close.png</key>
 		<data>
@@ -1826,7 +1814,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MGMdrDZ4S2L0FCuOoK4B/a+H7Wc=
+		WAyUHAhCB9JkR7uduMmvB1dEX8A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2004,22 +1992,6 @@
 		<data>
 		JO9OrvbTFSiRNKJq65PdP5PKfUs=
 		</data>
-		<key>cro_address_dictionary.zzip</key>
-		<data>
-		vSWneo8pU8leYA0TSDXNpYsncOk=
-		</data>
-		<key>cro_authority_dictionary.zzip</key>
-		<data>
-		mz79vVGWu/JI891Phna16Cl10QQ=
-		</data>
-		<key>cro_id_confusions.zzip</key>
-		<data>
-		24emieYeyHyVeOfvP7IfqwiaeOs=
-		</data>
-		<key>cro_name_dictionary.zzip</key>
-		<data>
-		kuGfvDr0z9Q6vWD5NpSlqDcdsYI=
-		</data>
 		<key>cs.strings</key>
 		<data>
 		i7th3lywGeUBdVJTGYssCixJ3H4=
@@ -2075,26 +2047,6 @@
 		<key>de.strings</key>
 		<data>
 		iKe5P4uxKn3i/zjI1m+oTl1oYhk=
-		</data>
-		<key>de_address_dictionary.zzip</key>
-		<data>
-		4+mgChmbNknGKiB64yrqhzkE5YY=
-		</data>
-		<key>de_confusions.zzip</key>
-		<data>
-		lvTvvtkG4MvnbhrR75GRdHzk518=
-		</data>
-		<key>de_id_confusions.zzip</key>
-		<data>
-		wTmErdtNmiUftZSRd01qqOiN8XE=
-		</data>
-		<key>de_name_dictionary.zzip</key>
-		<data>
-		9nZ49UbbDckNXRcelQcx8nvRu1g=
-		</data>
-		<key>de_surname_dictionary.zzip</key>
-		<data>
-		rIq7Np61oM5YmGWNXZcwfSnqBNA=
 		</data>
 		<key>diners.png</key>
 		<data>
@@ -2340,18 +2292,6 @@
 		<data>
 		88m94NsjDi5veMk41SVpwLLXXe0=
 		</data>
-		<key>indonesia_confusions.zzip</key>
-		<data>
-		RZGLtw6s558nTMAxQUbCYzzFvqY=
-		</data>
-		<key>indonesia_occupation_dictionary.zzip</key>
-		<data>
-		m5SxHn6pGzXDsi7N0LStexWH6tU=
-		</data>
-		<key>indonesia_province_dictionary.zzip</key>
-		<data>
-		tnX1RcGISgm44epe4U5MVxwXvYM=
-		</data>
 		<key>it.strings</key>
 		<data>
 		zQr7bOK1VSoCSjHHyw+Jdlczi0g=
@@ -2380,14 +2320,6 @@
 		<data>
 		4wkBoLy4X0/3NeUBloxvqKqsop0=
 		</data>
-		<key>malaysian_confusions.zzip</key>
-		<data>
-		8x3vVa20+TCydI6vfhWPtwcotg8=
-		</data>
-		<key>malaysian_state_dictionary.zzip</key>
-		<data>
-		ZHYz7Wecy+/jChNyyPOTU99o3GY=
-		</data>
 		<key>masterCard.png</key>
 		<data>
 		K0NfTYrCAJChATr/zrHnrWN8EXU=
@@ -2400,37 +2332,9 @@
 		<data>
 		kYJGWEuM7cPLaMWdpp0vd+xKkS0=
 		</data>
-		<key>model_arabic.zzip</key>
-		<data>
-		c/tMTHa35dQ5fn9MXJkOmGsEW64=
-		</data>
-		<key>model_eudl.zzip</key>
-		<data>
-		TKtlPCN/UaUYUF+ocTlVDDpKL2U=
-		</data>
-		<key>model_general_blink_ocr.zzip</key>
-		<data>
-		QJKChudRuYiyflEfFlj5Tw71IDE=
-		</data>
-		<key>model_malaysian.zzip</key>
-		<data>
-		ZSbGR13GEJrxTED8QpRbZq1IY0Y=
-		</data>
-		<key>model_micr.zzip</key>
-		<data>
-		6/FT+hcUbYvMpxqCzO/BfepbvYA=
-		</data>
 		<key>model_mrtd.zzip</key>
 		<data>
 		TLYT0oVfoHn4rU46c/NQtbmZlqA=
-		</data>
-		<key>morocco_id_confusions.zzip</key>
-		<data>
-		kKzhrnfBgJUCYJolFq6zBX25pn4=
-		</data>
-		<key>morocco_places_dictionary.zzip</key>
-		<data>
-		pJ9TnQ36l73tdi1px/miGwcNZYg=
 		</data>
 		<key>ms.strings</key>
 		<data>
@@ -2439,14 +2343,6 @@
 		<key>nl.strings</key>
 		<data>
 		FHhaGfx82pw9qrI1GpOLqG4mIls=
-		</data>
-		<key>payment_card_confusions.zzip</key>
-		<data>
-		wq1fbnHcSjaf7bOu8lAXSLYg/MM=
-		</data>
-		<key>payment_card_dictionary.zzip</key>
-		<data>
-		gcdFbtJ6wTnQ83sMdUlV3NUz2Nc=
 		</data>
 		<key>pt.strings</key>
 		<data>
@@ -2560,18 +2456,6 @@
 		<data>
 		v+kPZaL3BzC8JygVnHqLShb+ENU=
 		</data>
-		<key>uae_confusions.zzip</key>
-		<data>
-		Yfh/seuOMoTVh1iGza2nzv61VJ0=
-		</data>
-		<key>uae_name_dictionary.zzip</key>
-		<data>
-		qseF+vScbyt2E1LJkKjPvFdEo6w=
-		</data>
-		<key>uae_nationality_dictionary.zzip</key>
-		<data>
-		NJRjzwljGwilS0FW+hWoey+yUlA=
-		</data>
 		<key>unionPay.png</key>
 		<data>
 		t9Yxn1/s2759J3vydV/SH5xo+ok=
@@ -2615,231 +2499,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PNuqFXibcg0FZg8F5um5d5J3pOA=
+			F4fFJSbvDDpcf1OZqsVtv1a3fds=
 			</data>
 			<key>hash2</key>
 			<data>
-			0FGCpeExPKRzhuodzdWIc04I0RKLb1W1cXoOsfwgqXU=
+			0P/GlhJVgQ0tRiUP5iM4vd4sJGW7Q7LhF5kPZTiGwD0=
 			</data>
 		</dict>
 		<key>BlinkCard_Classifier_general_6.1.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ajlOvR7HeGnFYzNvFBtGz2lRllM=
+			R86babRgcVVnRH0GM4GN/GgTY0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			DpmLgRNet2zPfg1eSOaWu+kpAAuvt++RmWsWUUNkEbo=
+			bcuuAr30s10WSCyjiVNEs+kocCTgfbj0saycsvsOumw=
 			</data>
 		</dict>
 		<key>BlinkCard_Detector_general_6.0.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EfqUzMxPehY+Rv0zA9ygRyDEKe8=
+			Gvc+87NlXqoREh2V7MknMXzSvFg=
 			</data>
 			<key>hash2</key>
 			<data>
-			GWV7WVaDXK5FRmvtFTBBI+V9hO9UJq2y8ixlIkcJf5I=
+			eSkfFGgKX4D52nnkbIa+aycZTQ8DOuA827du0HZzZ7Q=
 			</data>
 		</dict>
 		<key>BlinkCard_EmbossedClassifier_general_6.1.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JHPpRhip8/ZzRVSfVcFBEqwP5u4=
+			hcIQamLftlb5QB80/WYSSTNt7Lk=
 			</data>
 			<key>hash2</key>
 			<data>
-			XOuv16EIxmCkHLLapAIrlWxPmLbo0M6JxT/NU25Zxhg=
+			vd/URJPZPu/UKfBZBmDmpSj+Sgaz4pFhkf0njdp3QdQ=
 			</data>
 		</dict>
 		<key>BlinkCard_Ocr_general_6.3.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GF79OlwEBNXM3J6utKbJM1ZUlK8=
+			6sRvfWfDPBC116n6/QY858cQgzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			geycWcH5YmRGeEgjd9A/lXhgEqjZFQeZqiCRNFtjjTc=
+			rBwghf/YhjKOtZZNu45A2//m7t0gg/T3PXH8e35Kc84=
 			</data>
 		</dict>
 		<key>BlinkCard_RotationClassifier_general_6.0.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p5RCe0EVw8JvZjE89fI8Bg9iO5o=
+			FxjXhC+TJAcxlCO28ud37950wVA=
 			</data>
 			<key>hash2</key>
 			<data>
-			AVgdic4mPT5GRYSC955LSNPYbIMZc1rkSkM1fBwpR70=
+			8fkEWJkV80+rM9ye9B4Fm7JNJyZMQw5FCLVH99nfXjw=
 			</data>
 		</dict>
 		<key>BlinkCard_WordDetector_general_6.0.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xZqU/Nqbb3HWqd/cV4QgycRHsf4=
+			uxAN7xGv1AZ33wXQl9tjnrLzdco=
 			</data>
 			<key>hash2</key>
 			<data>
-			8Q1/aHoOandyUftcZNetHsnPGXSVJtP8cZjOU7etxc4=
+			x7rh3nN+5saSQ13Hm+jsfeeWSKfmT182bcD3qXf34i8=
 			</data>
 		</dict>
 		<key>BlinkID_Analyzer_general_6.5.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			afbwsDEAM914zOevrPSu8LCELqk=
+			6761znCKrXV6AzdCLy4GPg5wHXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			nOhhqz1WeWccY37bu0c6TIxmbX2fFQbdeFxUGmEK/10=
+			WeG7maOkWqLdeHtFircr8sH0741Gv5jPEYtcFmCHyXc=
 			</data>
 		</dict>
 		<key>BlinkID_BlurClassifier_general_6.2.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jDaiVU+GODYpWUOW1JEg8gnUeuk=
+			OjEexuh1FYXxCN6cUvpN178J7v0=
 			</data>
 			<key>hash2</key>
 			<data>
-			S53McBOZ2PWUikv2FVne6yfCNULB3uijt161m0mqok4=
+			1zDzrPhLXZ0tC6waRDLEZ038xb4Q0GQBs/XiKLOt31k=
 			</data>
 		</dict>
 		<key>BlinkID_Classifier_general_6.13.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1uSEkdDsTy0qbtkk+07IdcRi1+A=
+			BJtuhmqB5zNxuJCopMiYv54Ab4M=
 			</data>
 			<key>hash2</key>
 			<data>
-			kvDwwcd0kRYPc7Px6RBeN5aBzkax32HIQiq4afyU6SU=
-			</data>
-		</dict>
-		<key>BlinkID_CreditCardOcr_general_6.2.0.strop</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L8q6xXiSjrWaHhL5lgirVQrPHVo=
-			</data>
-			<key>hash2</key>
-			<data>
-			cxoaK5NXo58B6qP3W+R6+NVwbemoGRUiu9XeH7cKzP0=
+			KUW8ILTOXs+sfCIUtQ+1WJAsnVlEsz0XORlJE6tP42I=
 			</data>
 		</dict>
 		<key>BlinkID_Detector_general_6.6.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/MVWjvqRYkPK7Aq7lRwgIaou8H4=
+			uU4PV+0aG8CWWhoR2j2p87zyp0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			4BPvZcKAHGpOPcFW3npGePtuYXdtG7IZ1v2vJ79xEQ8=
+			I+F1nYdNeM2b6JjucaS21RLbalt9Wxh1iDMMwihCyoE=
 			</data>
 		</dict>
 		<key>BlinkID_MoireClassifier_malaysia_6.0.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sj+xtjxawS544wvWKKjWvzECeCs=
+			9ohO5kkfFXD1XzNmrQzscDWiFzc=
 			</data>
 			<key>hash2</key>
 			<data>
-			/cCakfMpX60Io/32yDmtLtxe9undLHI3uM2FRMxR+iE=
+			0LC/h6PBfnCYx5PELkuis3oJVEKRqd5i/UQoGICa3Yw=
 			</data>
 		</dict>
 		<key>BlinkID_MonochromeClassifier_general_6.0.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UZFDnrQxCY3hCjhUyFwrOtQuzSE=
+			JPHm46KNoCSrRCOZDZOWQ8W7nDA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wcq4NtjOItyOEH/vILfrTUTmHSBDF2gWrophU6C9geg=
+			DtbAgj0kfuEXBbglgdXhkipxGh2S7WDTgFsYjAl5rNk=
 			</data>
 		</dict>
 		<key>BlinkID_Ocr_general_6.12.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wbVDsuLNpOChi09GE2cTc0ryMeI=
+			1lco+MPAgmBAUb3Fq/NKsVSg0Qw=
 			</data>
 			<key>hash2</key>
 			<data>
-			2g6QJxrFYotvjtKzjdVgyVDIMLUHfpW7ny0CGfZaUjE=
-			</data>
-		</dict>
-		<key>BlinkID_Ocr_general_6.2.0.strop</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sQxPCPADW2EQ/9zCSvPkLlcyS0g=
-			</data>
-			<key>hash2</key>
-			<data>
-			2U6vgONW1gG/tXfIXzrRVPKT1IcFHlHL0+bHbeJbp54=
+			xWCqhW1JJy7Igg5FXGgtnYkcQbBwFogkrVsVeV4ezMQ=
 			</data>
 		</dict>
 		<key>BlinkID_Ocr_mrz_6.4.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LbAkE0wjxHdu0GU6u7s0U0Vre2E=
+			WlKTbjDBL0kmARC8IN7Cf+xqZTo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZYm1C31STHOXQ1PS0zVCePqeyZ9asRwrWBveLrlx+JU=
+			faxpQ2DRP/Skm/hcfBwRpKBMozHF5tyLaIUK18pwJAo=
 			</data>
 		</dict>
 		<key>BlinkID_RotationClassifier_general_6.1.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NwDBCF6ocviwCz5nWUcvSNIG4SE=
+			wO6a95LA4XwqGUwxMop2Jv446yw=
 			</data>
 			<key>hash2</key>
 			<data>
-			agJrR+9eUb7TvGtq9prLHUK5dn7xgMRHX7qUx0JKErU=
+			V+o1Npm1CNE8CKFA2aUgQvDmEr1NGJvfYPTr9t3YSmU=
 			</data>
 		</dict>
 		<key>BlinkID_Segmentator_general_6.13.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vKyQUrfcm1D+56ckNhL/uvdBin4=
+			Y5ZqP8RlSf1rynuwClLLbx3wy74=
 			</data>
 			<key>hash2</key>
 			<data>
-			6m64/ySAh94AbNOgpWwj9vm4pd5azvUF+um68BCQTmQ=
+			Arut1NBAXzrLogJVOsV/exw0GwoH8cvcMV4Ur0tYBqg=
 			</data>
 		</dict>
 		<key>BlinkOCR_DocumentDetector_general_6.3.0.strop</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MTHw3Lhd6ApMVwUKOjtizYokTZI=
+			lZDtUbSvEnNvqkzOebsfBLw/4qM=
 			</data>
 			<key>hash2</key>
 			<data>
-			EnqREYR9r+Rojl6kPdtmQZyQ+jQUG3K4BjelWf93OHQ=
-			</data>
-		</dict>
-		<key>BlinkOCR_Ocr_general_6.1.0.strop</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k4/ZyzOdibtIX5D5ma0Hv1vTKTo=
-			</data>
-			<key>hash2</key>
-			<data>
-			2NQJAfBD3767ABUoWALn0Eyttt7erxZZgF+fEW35Bvk=
+			I8zbe1BxH6Z6lB1pEFklhLpW7EQtyAq5gblaY04hrpI=
 			</data>
 		</dict>
 		<key>Close.png</key>
@@ -8100,50 +7951,6 @@
 			yFyueb+S9l3zc4y0sB726ei4ShVGqnSg8WKSJ50h9VA=
 			</data>
 		</dict>
-		<key>cro_address_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vSWneo8pU8leYA0TSDXNpYsncOk=
-			</data>
-			<key>hash2</key>
-			<data>
-			fOX4Q+KK3kbVTnzwS5IwcuERmAxJTJhrQc4EbmeQpq0=
-			</data>
-		</dict>
-		<key>cro_authority_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mz79vVGWu/JI891Phna16Cl10QQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			kw+N5ROZ9gKan0XMpsae4p7lc57YK6yn8BdkxtkC5JI=
-			</data>
-		</dict>
-		<key>cro_id_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			24emieYeyHyVeOfvP7IfqwiaeOs=
-			</data>
-			<key>hash2</key>
-			<data>
-			68AAeRGwL9j/b5jLgj05riYtRqbsA6A1zAKk7jlIdOY=
-			</data>
-		</dict>
-		<key>cro_name_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kuGfvDr0z9Q6vWD5NpSlqDcdsYI=
-			</data>
-			<key>hash2</key>
-			<data>
-			tnGkkiGI3Hfa+7+tiSFnlrpg9SeYOp3aVrmpmmTnMco=
-			</data>
-		</dict>
 		<key>cs.strings</key>
 		<dict>
 			<key>hash</key>
@@ -8296,61 +8103,6 @@
 			<key>hash2</key>
 			<data>
 			ApA49UwMy6GZqrLyp1GR+4zaVhf2TKlb9WD9VTKhkEg=
-			</data>
-		</dict>
-		<key>de_address_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4+mgChmbNknGKiB64yrqhzkE5YY=
-			</data>
-			<key>hash2</key>
-			<data>
-			+xY5Tf+vlA0tl71fMLY+7g0/OExx/xSeuRkHti9gBkM=
-			</data>
-		</dict>
-		<key>de_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lvTvvtkG4MvnbhrR75GRdHzk518=
-			</data>
-			<key>hash2</key>
-			<data>
-			uRC7peVdZ/gvQCTYsDNnbxDxnbov+KcFTZrtbCYbikE=
-			</data>
-		</dict>
-		<key>de_id_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wTmErdtNmiUftZSRd01qqOiN8XE=
-			</data>
-			<key>hash2</key>
-			<data>
-			yDdinMeirGPRATKXOw7itFO3SMvT4vHbf+9HVltczdc=
-			</data>
-		</dict>
-		<key>de_name_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9nZ49UbbDckNXRcelQcx8nvRu1g=
-			</data>
-			<key>hash2</key>
-			<data>
-			gEEkavCy992CewxmC/QVq7iR2sAXlzRvx9JDYG4Tf5M=
-			</data>
-		</dict>
-		<key>de_surname_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rIq7Np61oM5YmGWNXZcwfSnqBNA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ivVSAyUvhtpx+XTuJ5Yc5wPMGMQRsktfnKCBzd4dMok=
 			</data>
 		</dict>
 		<key>diners.png</key>
@@ -9024,39 +8776,6 @@
 			zEafiQDUA9jwE/d4TURl5dSlUTIPMzQDFGtBxfuuZEE=
 			</data>
 		</dict>
-		<key>indonesia_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RZGLtw6s558nTMAxQUbCYzzFvqY=
-			</data>
-			<key>hash2</key>
-			<data>
-			8GQTC2+hfzQqMsgk4wOUWLl/8wPA+8maOpPln07fOq4=
-			</data>
-		</dict>
-		<key>indonesia_occupation_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m5SxHn6pGzXDsi7N0LStexWH6tU=
-			</data>
-			<key>hash2</key>
-			<data>
-			0XMYu24fUMQzDNTaqZsN9t91uMJPNSdHJ/JI/lp+KnE=
-			</data>
-		</dict>
-		<key>indonesia_province_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tnX1RcGISgm44epe4U5MVxwXvYM=
-			</data>
-			<key>hash2</key>
-			<data>
-			scIpRGxcE0p8TyCSds9lJ6ZOXBYBM56mbYygxohx2k4=
-			</data>
-		</dict>
 		<key>it.strings</key>
 		<dict>
 			<key>hash</key>
@@ -9134,28 +8853,6 @@
 			wf6dfQr7bn82seNa87ljQqLp0dtlB/Oas2DNIhjignY=
 			</data>
 		</dict>
-		<key>malaysian_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8x3vVa20+TCydI6vfhWPtwcotg8=
-			</data>
-			<key>hash2</key>
-			<data>
-			LrSVocGCanMX3NCrIqbp6KwraiaX3xLfZbgdjn6H7Y8=
-			</data>
-		</dict>
-		<key>malaysian_state_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZHYz7Wecy+/jChNyyPOTU99o3GY=
-			</data>
-			<key>hash2</key>
-			<data>
-			hjobcDcZHfas4E3SDzfF7ygsDbzOujZKYylPL+HiKyw=
-			</data>
-		</dict>
 		<key>masterCard.png</key>
 		<dict>
 			<key>hash</key>
@@ -9189,61 +8886,6 @@
 			wh4IXIA5rix4RdoozqwIqoIe3/rsjsKjer5J0sijOl8=
 			</data>
 		</dict>
-		<key>model_arabic.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c/tMTHa35dQ5fn9MXJkOmGsEW64=
-			</data>
-			<key>hash2</key>
-			<data>
-			8PttD2z8UbiwoZ3kF5ptzRnL++xBZG1/tYeIRmqnQc4=
-			</data>
-		</dict>
-		<key>model_eudl.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TKtlPCN/UaUYUF+ocTlVDDpKL2U=
-			</data>
-			<key>hash2</key>
-			<data>
-			PD5iQP7QFuu4EBGsYihQQORSoSRv9CG6M85Sna2Rrds=
-			</data>
-		</dict>
-		<key>model_general_blink_ocr.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QJKChudRuYiyflEfFlj5Tw71IDE=
-			</data>
-			<key>hash2</key>
-			<data>
-			HOH/Mo9iGB8ZnX0xjhVTsT157783/DXhC+LlpRbGy/U=
-			</data>
-		</dict>
-		<key>model_malaysian.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZSbGR13GEJrxTED8QpRbZq1IY0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			bSmTc5x8K7LDER9ZG3EIIH1xsbXVOh95nEPChswdr8c=
-			</data>
-		</dict>
-		<key>model_micr.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6/FT+hcUbYvMpxqCzO/BfepbvYA=
-			</data>
-			<key>hash2</key>
-			<data>
-			wCs1McQ/Ac6YfIBNfA4JtDU9nMt8Y4RtRWgJx8y8Dqs=
-			</data>
-		</dict>
 		<key>model_mrtd.zzip</key>
 		<dict>
 			<key>hash</key>
@@ -9253,28 +8895,6 @@
 			<key>hash2</key>
 			<data>
 			LRBvDozC2YzR+/EJKyvHlsXUOPnQ5G40Ru49QRSx0cg=
-			</data>
-		</dict>
-		<key>morocco_id_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kKzhrnfBgJUCYJolFq6zBX25pn4=
-			</data>
-			<key>hash2</key>
-			<data>
-			LRMP7b9pqF0lgd5EC8QIeebhJvOy7scaEqGt4UwbCqE=
-			</data>
-		</dict>
-		<key>morocco_places_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pJ9TnQ36l73tdi1px/miGwcNZYg=
-			</data>
-			<key>hash2</key>
-			<data>
-			HtKkGU3w0mr1ifWBH6X0bx/oBS+oMe4NyUiTzwI5B+c=
 			</data>
 		</dict>
 		<key>ms.strings</key>
@@ -9297,28 +8917,6 @@
 			<key>hash2</key>
 			<data>
 			Ba/SdCM7DMFv/jIkmNGXVvoUcz8kPo4h8s9ukIGyd+o=
-			</data>
-		</dict>
-		<key>payment_card_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wq1fbnHcSjaf7bOu8lAXSLYg/MM=
-			</data>
-			<key>hash2</key>
-			<data>
-			F+BWEyZXxQ2INaz2Po2FbwI90H+9FkQQh4gU4lXciNU=
-			</data>
-		</dict>
-		<key>payment_card_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gcdFbtJ6wTnQ83sMdUlV3NUz2Nc=
-			</data>
-			<key>hash2</key>
-			<data>
-			cpTmUhLejv05V0xvT4CscdyCpdgcZJl82cttOyifA0g=
 			</data>
 		</dict>
 		<key>pt.strings</key>
@@ -9627,39 +9225,6 @@
 			<key>hash2</key>
 			<data>
 			2xEQPaoeHS+jCUNxCpZqdXpxKqrU4KFoJmbupYsSZJM=
-			</data>
-		</dict>
-		<key>uae_confusions.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Yfh/seuOMoTVh1iGza2nzv61VJ0=
-			</data>
-			<key>hash2</key>
-			<data>
-			SxGmemxM72AdSEliPDHotcMh/+CjPCCGLrz01L/dR70=
-			</data>
-		</dict>
-		<key>uae_name_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qseF+vScbyt2E1LJkKjPvFdEo6w=
-			</data>
-			<key>hash2</key>
-			<data>
-			jwKh7F6oMC5gJ4bSZjCGMhj4zwVVF2a75uOPmbIwQdU=
-			</data>
-		</dict>
-		<key>uae_nationality_dictionary.zzip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NJRjzwljGwilS0FW+hWoey+yUlA=
-			</data>
-			<key>hash2</key>
-			<data>
-			y+mvVPoomA7tENy1cyZWcFpN0rq+yjhIBKujt+uDDNI=
 			</data>
 		</dict>
 		<key>unionPay.png</key>
