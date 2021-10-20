@@ -4,6 +4,38 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>BlinkCard_BlurClassifier_general_6.0.0.strop</key>
+		<data>
+		hMfBt7hCog3HLwThFRtKP9fOVts=
+		</data>
+		<key>BlinkCard_Classifier_general_6.1.0.strop</key>
+		<data>
+		xLxAZQBgAY1mRGuMPb8NgpFCGuA=
+		</data>
+		<key>BlinkCard_Detector_general_6.0.0.strop</key>
+		<data>
+		j3rwMA3rBsEQzM+8T2ahQHzIQx4=
+		</data>
+		<key>BlinkCard_EmbossedClassifier_general_6.1.0.strop</key>
+		<data>
+		1wWaDJsFNwGz1cxe+6/IVDIoJkE=
+		</data>
+		<key>BlinkCard_Ocr_general_6.4.0.strop</key>
+		<data>
+		epLswjmsgApCoopWSau8NM2v8EE=
+		</data>
+		<key>BlinkCard_RotationClassifier_general_6.0.0.strop</key>
+		<data>
+		IIWywMcmo4eG62GrDlUF/h6hNWg=
+		</data>
+		<key>BlinkCard_RotationClassifier_general_6.2.0.strop</key>
+		<data>
+		arJa51fsueyzkukWjxiUO5vVe/o=
+		</data>
+		<key>BlinkCard_WordDetector_general_6.1.0.strop</key>
+		<data>
+		ljtayXygC39Fv6RAruk8AyM63jQ=
+		</data>
 		<key>BlinkID_Analyzer_general_6.6.0.strop</key>
 		<data>
 		/yC/HH1n2Pdci1/MjU1IRN6YPMc=
@@ -1790,7 +1822,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZrpRxRVHGmIrvKgygMn/J5mPkhc=
+		F9LpJRx2lR7dYk8Q5Bq9+IMd60I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2392,6 +2424,10 @@
 		<data>
 		hdmvT9pcm/s9OhTWidI+a4sdJ5o=
 		</data>
+		<key>templates.zzip</key>
+		<data>
+		P7VtstEg7QwH3F4w2pBWAiO2970=
+		</data>
 		<key>th.strings</key>
 		<data>
 		f2sluN9TU8of8swS92Ckr0hrVIM=
@@ -2467,6 +2503,94 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>BlinkCard_BlurClassifier_general_6.0.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hMfBt7hCog3HLwThFRtKP9fOVts=
+			</data>
+			<key>hash2</key>
+			<data>
+			PXDzZCVLIOvXeDvw6fFaehsSjk2s2UNBNGL+XnMJe1A=
+			</data>
+		</dict>
+		<key>BlinkCard_Classifier_general_6.1.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xLxAZQBgAY1mRGuMPb8NgpFCGuA=
+			</data>
+			<key>hash2</key>
+			<data>
+			zvyT9lXXjCYVtt6eia5e0aoT/QPEgiLnDDbploDvQpM=
+			</data>
+		</dict>
+		<key>BlinkCard_Detector_general_6.0.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j3rwMA3rBsEQzM+8T2ahQHzIQx4=
+			</data>
+			<key>hash2</key>
+			<data>
+			yzl3OCBJjljL+aNN60LrUTFKCQn5YvSLiu8NZYqx9Oc=
+			</data>
+		</dict>
+		<key>BlinkCard_EmbossedClassifier_general_6.1.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1wWaDJsFNwGz1cxe+6/IVDIoJkE=
+			</data>
+			<key>hash2</key>
+			<data>
+			FVvGESUdjbA9HTLNjikW/z8qMs5bKyIJUmP7/AQ+mek=
+			</data>
+		</dict>
+		<key>BlinkCard_Ocr_general_6.4.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			epLswjmsgApCoopWSau8NM2v8EE=
+			</data>
+			<key>hash2</key>
+			<data>
+			WjzFvf51q405L2I7lzx2bkJhmvAr5xj6W6BTKiNo5BE=
+			</data>
+		</dict>
+		<key>BlinkCard_RotationClassifier_general_6.0.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IIWywMcmo4eG62GrDlUF/h6hNWg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Iw45lC+OBxauQJv40xB951QN/p0oX3YMg2E3SnsPc7c=
+			</data>
+		</dict>
+		<key>BlinkCard_RotationClassifier_general_6.2.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			arJa51fsueyzkukWjxiUO5vVe/o=
+			</data>
+			<key>hash2</key>
+			<data>
+			8zMk/Lbfo35mwgP1kkVhC9isE9wBNuh+TWKfXdjmTDM=
+			</data>
+		</dict>
+		<key>BlinkCard_WordDetector_general_6.1.0.strop</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ljtayXygC39Fv6RAruk8AyM63jQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			QgSAeyF9ImvzwapMZZzwpKj0JLyMzMUhtnMPxxluyk8=
+			</data>
+		</dict>
 		<key>BlinkID_Analyzer_general_6.6.0.strop</key>
 		<dict>
 			<key>hash</key>
@@ -9021,6 +9145,17 @@
 			<key>hash2</key>
 			<data>
 			T5h+Zu4ETszNw/Ri9WpT2Qwr5y8runVKCohwBtFmUuU=
+			</data>
+		</dict>
+		<key>templates.zzip</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P7VtstEg7QwH3F4w2pBWAiO2970=
+			</data>
+			<key>hash2</key>
+			<data>
+			WoD6la24wSHsayG2QIH+n+uqFXm8hQhw2xE+vxqaSd8=
 			</data>
 		</dict>
 		<key>th.strings</key>
